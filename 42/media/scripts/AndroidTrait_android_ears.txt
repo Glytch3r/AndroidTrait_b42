@@ -1,0 +1,19 @@
+module AndroidTrait
+{
+    item AndroidEars
+    {
+        DisplayCategory = Accessory,
+        ItemType = base:clothing,
+        Weight = 0.3,
+        Icon = AndroidEars,
+        BloodLocation = Head,
+        BodyLocation = base:hat,
+        CanHaveHoles = false,
+        ChanceToFall = 30,
+        ClothingItem = AndroidTrait_AndroidEars,
+        Insulation = 0.4,
+        WindResistance = 0.4,
+        HearingModifier = 0.75,
+        Tags = base:isfirefuel;base:isfiretinder,
+    }
+}

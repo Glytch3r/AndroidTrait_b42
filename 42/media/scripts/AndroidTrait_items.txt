@@ -1,0 +1,16 @@
+module Base
+{
+
+  sound   Android_LowBatt    { category = UI,  clip  {  file = media/sound/Android_LowBatt.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Charge     { category = UI,  clip   {  file = media/sound/Android_Charge.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Spark0     { category = UI,  clip   {  file = media/sound/Android_Spark0.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Spark1     { category = UI,  clip   {  file = media/sound/Android_Spark1.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Spark2     { category = UI,  clip   {  file = media/sound/Android_Spark2.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Spark3     { category = UI,  clip   {  file = media/sound/Android_Spark3.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Spark4     { category = UI,  clip   {  file = media/sound/Android_Spark4.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Spark5     { category = UI,  clip   {  file = media/sound/Android_Spark5.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Spark6     { category = UI,  clip   {  file = media/sound/Android_Spark6.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Spark7     { category = UI,  clip   {  file = media/sound/Android_Spark7.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+  sound   Android_Spark8     { category = UI,  clip   {  file = media/sound/Android_Spark8.ogg,   distanceMin = 4, distanceMax = 16, is3D = true,  reverbFactor = 0.1, volume = 0.71,  loop = false,  }  }
+}
+

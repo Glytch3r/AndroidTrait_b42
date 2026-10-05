@@ -1,0 +1,11 @@
+{
+    "Sandbox_AndroidTrait": "Android Trait Mod",
+    "Sandbox_AndroidTrait_EnergyDrainRate": "Energy Drain Rate",
+    "Sandbox_AndroidTrait_DisableEatDrink": "Disable Eat & Drink",
+    "Sandbox_AndroidTrait_minCal": "Min Calories (Recalibrate)",
+    "Sandbox_AndroidTrait_maxCal": "Max Calories (Recalibrate)",
+    "Sandbox_AndroidTrait_minWt": "Min Weight (Recalibrate)",
+    "Sandbox_AndroidTrait_maxWt": "Max Weight (Recalibrate)",
+    "Sandbox_AndroidTrait_RecalCD": "Recalibrate Cooldown (Hours)",
+    "Sandbox_AndroidTrait_EarmuffEnergyCost": "Earmuff Battery Cost (%)"
+}

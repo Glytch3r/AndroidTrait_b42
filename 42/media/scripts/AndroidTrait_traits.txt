@@ -1,0 +1,13 @@
+module AndroidTrait
+{
+    character_trait_definition AndroidTrait:Android
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = AndroidTrait:Android,
+        Cost = 20,
+        UIName = UI_trait_Android,
+        UIDescription = UI_trait_Android_desc,
+        Texture = media/ui/Traits/trait_Android.png,
+    }
+}

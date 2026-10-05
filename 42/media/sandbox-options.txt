@@ -1,0 +1,45 @@
+VERSION = 1,
+
+
+
+option AndroidTrait.EnergyDrainRate {
+	type = double, default = 0.004,    min = 0,    max = 1,
+	page = AndroidTrait, translation = AndroidTrait_EnergyDrainRate,
+}
+
+option AndroidTrait.DisableEatDrink {
+	type = boolean, default = true,
+	page = AndroidTrait, translation = AndroidTrait_DisableEatDrink,
+}
+
+
+option AndroidTrait.minCal {
+	type = double, default = 900,    min = 0,    max = 20000,
+	page = AndroidTrait, translation = AndroidTrait_minCal,
+}
+option AndroidTrait.maxCal {
+	type = double, default = 1200,    min = 0,    max = 20000,
+	page = AndroidTrait, translation = AndroidTrait_maxCal,
+}
+
+
+option AndroidTrait.minWt {
+	type = double, default = 60,    min = 0,    max = 20000,
+	page = AndroidTrait, translation = AndroidTrait_minWt,
+}
+option AndroidTrait.maxWt {
+	type = double, default = 170,    min = 0,    max = 20000,
+	page = AndroidTrait, translation = AndroidTrait_maxWt,
+}
+
+
+option AndroidTrait.RecalCD {
+	type = integer, min = 1, max = 480, default = 3,
+	page = AndroidTrait, translation = AndroidTrait_RecalCD,
+}
+
+option AndroidTrait.EarmuffEnergyCost {
+	type = integer, min = 0, max = 100, default = 15,
+	page = AndroidTrait, translation = AndroidTrait_EarmuffEnergyCost,
+}
+
